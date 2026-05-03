@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليل السراب خذني للعيون
+> نار الشوق تحرق كل السكون
+> روحي تنادي والصدى مجنون
+> قلبي مسافر في سحر الفنون
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
