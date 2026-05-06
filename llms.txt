@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ba3da-el-seera/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Ba3da El Seera](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Usage Rights for Ba3da El Seera](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
